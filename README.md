@@ -23,7 +23,7 @@ Go_Scan是一款轻量级web目录扫描工具，内置字典，如果需要添�
     Go_Scan -u {url} -d {*.txt}
 
 使用效果
-![img.png] (img/img2.png)
+![img.png](img/img2.png)
 
 扫描器会扫描项目目录下是否存在log文件夹，如果有将*.log保存到log文件夹下
 如果没有，扫描器将创建log文件夹后保存*.log文件
