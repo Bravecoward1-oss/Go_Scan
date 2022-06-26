@@ -7,16 +7,16 @@ Go_Scan是一款轻量级web目录扫描工具，内置字典，如果需要添�
 使用参数
 
         "-h	help		Output to help"
-	"-v	version		Output version"
-	"-u	url		Url to scan\n"
-	"-d	dictionary	-d {dictionary name}"
-	"			Choose the dictionary"
-	"			This program provides you with dictionaries"
-	"			{asp,aspx,backup,Comprehensive_risk,dir,fck,fingerprint,jsp,mdb,php,shell,top,type}"
-	"			Format such as -d *.txt"
-	"	If you want to use your dictionary,"
-	"	put the dictionary in the dictionary folder"
-	"	Add the name and suffix of your dictionary after it"
+		"-v	version		Output version"
+		"-u	url		Url to scan"
+		"-d	dictionary	-d {dictionary name}"
+		"			Choose the dictionary"
+		"			This program provides you with dictionaries"
+		"			{asp,aspx,backup,Comprehensive_risk,dir,fck,fingerprint,jsp,mdb,php,shell,top,type}"
+		"			Format such as -d *.txt"
+		"	If you want to use your dictionary,"
+		"	put the dictionary in the dictionary folder"
+		"	Add the name and suffix of your dictionary after it"
 
 使用方式
     
