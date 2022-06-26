@@ -7,7 +7,7 @@ Go_Scan是一款轻量级web目录扫描工具，内置字典，如果需要添�
 使用参数
 
         "-h	help		Output to help"
-	"-v	version		Output version"
+	  "-v	version		Output version"
 		"-u	url		Url to scan"
 		"-d	dictionary	-d {dictionary name}"
 		"			Choose the dictionary"
