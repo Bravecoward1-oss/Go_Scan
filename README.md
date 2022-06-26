@@ -40,6 +40,9 @@ linux/mac系统安装
 或
 
     cd src/ && make linux
+或
+
+    cd src/ && make mac
 
 会在src目录下生成Go_Scan程序
 
